@@ -1,0 +1,4 @@
+baseURL = 'https://cass.aurible.fr/'
+languageCode = 'fr-fr'
+title = 'Portfolio'
+theme = 'navigator'
